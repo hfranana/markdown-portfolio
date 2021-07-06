@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+Biochemistry student with strong understanding of **R**, **SQL**, and **other things im sure**
